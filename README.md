@@ -2,7 +2,7 @@
 ----------
 ROS melodic and noetic package for RaspberryPi Camera Streaming.
 
-Built on [UbiquityRobotics'](https://github.com/UbiquityRobotics/raspicam_node) Raspberry Pi package. This repository contains the required dependencies and some updates to the Ubiquity package, required to install and run PiCamera streaming on ROS base.
+Built on [UbiquityRobotics'](https://github.com/UbiquityRobotics/raspicam_node) Raspberry Pi package. This repository contains the dependencies and some updates to the Ubiquity package, required to install and run PiCamera streaming on ROS base.
 
 ### Installation Instructions
 These steps should be followed after you have installed ROS and set up your project workspace. 
